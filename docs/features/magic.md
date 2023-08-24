@@ -2,7 +2,7 @@
 
 The Magic callable is an "empty" function that can be used for two main scenarios:
 
- - A placeholder for typing, so to simplify interaction with static typing without hacing to mark all Declarai functions with `# type: ignore`:
+ - A placeholder for typing, so to simplify interaction with static typing without having to mark all Declarai functions with `# type: ignore`:
  - A replacement for the docstring content, if for some reason you don't want to use the docstring for the task description.
 
 
